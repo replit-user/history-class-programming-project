@@ -21,5 +21,5 @@ tip: to run a previous command use the up arrow key
 
 alternatively on linux you can use 
 ```bash
-apt-get install python3
+sudo apt-get install python3
 ```
